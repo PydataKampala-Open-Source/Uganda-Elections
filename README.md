@@ -1,5 +1,5 @@
 # Uganda-Elections
-This project seeks to glean insights from the Uganda Elections data since 1996
+This project seeks to glean insights from the Uganda Elections data since 1996 to present (2026) General Elections
 
 ### Objectives
 ### Audience
