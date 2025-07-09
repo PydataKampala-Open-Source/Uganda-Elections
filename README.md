@@ -1,5 +1,5 @@
 # Uganda-Elections
-This project seeks to glean insights from the Uganda Elections data since 1996 to present (2026) General Elections.
+This project seeks to design, and implement a user friendly and interactive dahsboard for the Uganda Elections data since 1996 to present (2026) General Elections.
 
 ---
 ### Objectives
@@ -9,7 +9,7 @@ This project seeks to glean insights from the Uganda Elections data since 1996 t
   across different election years through defining schemas and metadata standards for different polling stations, constituencies, results and candidates
 - Provide APIs, downloadable datasets and open notebooks to support further research.
 - Analyze, Visualize and Model election data for the past (1996-2021) and current (2026) elections to glean insights for public, private and government use.
-- Design, and implement an interactive dashboard application.
+- Design, and implement an interactive dashboard application with dynamic visualizations and analysis.
 - Publish project results on the PyData Kampala digital communication channels for public consumption and enablement of policies.
 
 ---
