@@ -23,15 +23,20 @@ Writing code is not the only way to contribute to this project. You can also;
 ### Code of Conduct
 PyData Kampala strictly follows the <a href='https://numfocus.org/code-of-conduct'>NumFocus CoC</a>.
 
-Below is a summarized version of the CoC
-Be kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist,
+Below is a summarized version of the CoC.
+- Be kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist,
 racist, or exclusionary jokes are not appropriate for NumFOCUS.
 
-All communication should be appropriate for a professional audience including people of many different backgrounds.
+- All communication should be appropriate for a professional audience including people of many different backgrounds.
 Sexual language and imagery is not appropriate.
 
-NumFOCUS is dedicated to providing a harassment-free community for everyone, regardless of gender, sexual orientation,
+- NumFOCUS is dedicated to providing a harassment-free community for everyone, regardless of gender, sexual orientation,
 gender identity and expression, disability, physical appearance, body size, race, or religion.
 We do not tolerate harassment of community members in any form.
 
 Thank you for helping make this a welcoming, friendly community for all.
+
+### Communication Channels
+- Website: <a href='https://kampala.pydata.org'>https://kampala.pydata.org<>
+- X (Formerly X): <a href='https://x.com/PydataKampala'>https://x.com/PydataKampala</a>
+- Email: <a href='mailto:pydatakampala1@gmail.com'>pydatakampala1@gmail.com</a>
