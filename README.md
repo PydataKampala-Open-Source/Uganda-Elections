@@ -45,3 +45,4 @@ Thank you for helping make this a welcoming, friendly community for all.
 - Website: <a href='https://kampala.pydata.org'>https://kampala.pydata.org</a>
 - X (Formerly X): <a href='https://x.com/PydataKampala'>https://x.com/PydataKampala</a>
 - Email: <a href='mailto:pydatakampala@numfocus.org'>pydatakampala@numfocus.org</a>
+- Weekly Project Meeting: <a href='https://numfocus-org.zoom.us/j/84566450392?pwd=5n5Mwqja7lE3StaW1HCIBLmPZj1Ls7.1'>Zoom</a>
