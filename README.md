@@ -10,7 +10,7 @@ This project seeks to glean insights from the Uganda Elections data since 1996 t
 - Analyze, Visualize and Model election data for the past (1996-2021) and current (2026) elections to glean insights for public, private and government use.
 - Publish project results on the PyData Kampala digital communication channels for public consumption and enablement of policies.
 
-  *
+  **
   
 ### Call for Contributions
 This project welcomes anyone with the enthusiasm and expertise. Small contributions are always appreciated.
