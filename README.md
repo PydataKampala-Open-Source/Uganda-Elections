@@ -39,6 +39,7 @@ gender identity and expression, disability, physical appearance, body size, race
 We do not tolerate harassment of community members in any form.
 
 Thank you for helping make this a welcoming, friendly community for all.
+
 ---
 ### Communication Channels
 - Website: <a href='https://kampala.pydata.org'>https://kampala.pydata.org</a>
