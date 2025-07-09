@@ -1,6 +1,7 @@
 # Uganda-Elections
 This project seeks to glean insights from the Uganda Elections data since 1996 to present (2026) General Elections.
 
+---
 ### Objectives
 - Data Accessibility and Redistribution; Make historical election data publicly available in clean, machine-readable, accessible
   and redistributable format.
@@ -10,7 +11,7 @@ This project seeks to glean insights from the Uganda Elections data since 1996 t
 - Analyze, Visualize and Model election data for the past (1996-2021) and current (2026) elections to glean insights for public, private and government use.
 - Publish project results on the PyData Kampala digital communication channels for public consumption and enablement of policies.
 
-  ---
+---
   
 ### Call for Contributions
 This project welcomes anyone with the enthusiasm and expertise. Small contributions are always appreciated.
@@ -21,7 +22,8 @@ Writing code is not the only way to contribute to this project. You can also;
 - Provide related datasets from trusted sources.
 - Share the project insights (analysis and visualizations) with your networks.
 - Attend our weekly meetings and ask relevant questions.
-- 
+  
+---
 ### Code of Conduct
 PyData Kampala strictly follows the <a href='https://numfocus.org/code-of-conduct'>NumFocus CoC</a>.
 
@@ -37,7 +39,7 @@ gender identity and expression, disability, physical appearance, body size, race
 We do not tolerate harassment of community members in any form.
 
 Thank you for helping make this a welcoming, friendly community for all.
-
+---
 ### Communication Channels
 - Website: <a href='https://kampala.pydata.org'>https://kampala.pydata.org</a>
 - X (Formerly X): <a href='https://x.com/PydataKampala'>https://x.com/PydataKampala</a>
