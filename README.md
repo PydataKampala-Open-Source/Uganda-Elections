@@ -37,6 +37,6 @@ We do not tolerate harassment of community members in any form.
 Thank you for helping make this a welcoming, friendly community for all.
 
 ### Communication Channels
-- Website: <a href='https://kampala.pydata.org'>https://kampala.pydata.org<>
+- Website: <a href='https://kampala.pydata.org'>https://kampala.pydata.org</a>
 - X (Formerly X): <a href='https://x.com/PydataKampala'>https://x.com/PydataKampala</a>
 - Email: <a href='mailto:pydatakampala1@gmail.com'>pydatakampala1@gmail.com</a>
