@@ -21,6 +21,10 @@ Writing code is not the only way to contribute to this project. You can also;
 - Suggest analysis, visualization or modeling.
 - Identify gaps and suggest interventions by raising an issue.
 - Provide related datasets from trusted sources.
+- Open an issue to improve the project.
+- Assist in the UI/UX design of dashboards.
+- Team building around a task.
+- Share analysis you have tried out in our notebooks.
 - Share the project insights (analysis and visualizations) with your networks.
 - Attend our weekly meetings and ask relevant questions.
   
